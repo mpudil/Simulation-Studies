@@ -1,4 +1,4 @@
-# Simulation Studies
+# Simulation Studies, etc.
 These are just a few of the many simulation studies I performed while a student and researcher at BYU.
 
 #### Instrumental_Variable_Simulations.ipynb (written in R with Jupyter Notebook)
