@@ -16,3 +16,8 @@ Uses regular expressions and webscraping to analyze the 2016 NFL rushing statist
 #### Permutation_Study.R
 
 Uses permutations to analyze the ratio of variances of two telephone companies.
+
+#### Collect_t.R
+
+Monte Carlo simulation to approximate the effect that adding an additional toy into the prize affects the number of attempts necessary to complete the challenge to collect all. 
+
